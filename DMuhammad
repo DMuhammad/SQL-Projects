@@ -1,0 +1,2 @@
+"INSERT INTO nilai_matrik(id_alternatif, id_bobot, id_skala) 
+            VALUES('".$alternatif."', '".$bobot."', '".$skala."')";
